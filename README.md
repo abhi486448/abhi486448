@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhi486448
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning express.Js
 - 💞️ I’m looking to collaborate on web Technologes
 - 📫 How to reach me - https://in.linkedin.com/in/abhishek-gupta-562a4326a
 - 😄 Pronouns: Abhishek

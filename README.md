@@ -17,7 +17,7 @@
 - **Programming**:![C](https://img.shields.io/badge/C-blue), ![C++](https://img.shields.io/badge/C++-blue), ![JavaScript](https://img.shields.io/badge/JavaScript-blue)
 
 ### 💻 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi486448&show_icons=true&theme=radical)
+<!--- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi486448&show_icons=true&theme=radical) --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi486448&layout=compact&theme=radical)
 
 ### ☕ Support:
